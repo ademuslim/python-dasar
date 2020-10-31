@@ -1,4 +1,4 @@
-### ~~~Latihan Komparasi dan Logika~~~~~~~~~~~~~~~~~~~~~~
+### ~~~Latihan Komparasi dan Logika~~~~~~~~~~~~~~~~~~~~~
 ### membuat area rentang dari angka
 print ('\nKomparasi dan Logika___________________')
 
