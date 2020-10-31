@@ -1,4 +1,4 @@
-#~~~OPERASI KOMPARASI~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~OPERASI KOMPARASI~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #>,<,>=,<=, ==, !=, is, is not
 print ('\nOPERASI KOMPARASI________')
 
