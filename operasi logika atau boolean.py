@@ -1,4 +1,4 @@
-# ~~~OPERASI LOGIKA BOOLEAN~~~~~~~~~~~~~~~~~~~~~~~
+# ~~~OPERASI LOGIKA BOOLEAN~~~~~~~~~~~~~~~~~~~~~~
 # boolean (tipe data yang berisi True atau False)
 # operasi logika not, or, and, xor
 print ('\nOperasi Logika Boolean______________')
